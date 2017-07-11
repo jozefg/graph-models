@@ -1,0 +1,8 @@
+*.aux
+*.log
+auto/*
+*.pyg
+_minted*/*
+*.fls
+*.fdb_latexmk
+_region_.tex
